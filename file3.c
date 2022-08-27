@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("ALEX_31");
+	printf("AMIT_ALEX_31");
 	return 0;
 }
