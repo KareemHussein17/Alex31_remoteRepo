@@ -2,6 +2,7 @@
 
 int main()
 {
-	printf("ALEX_31");
+	printf("AMIT");
+	printf("AMIT");
 	return 0;
 }
